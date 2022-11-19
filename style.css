@@ -1,0 +1,15 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.bg-img1,
+.bg-igm2,
+.bg-igm3 {
+  background-color: #000;
+  background-size: cover;
+}
+.carousel-inner img {
+  height: 650px;
+  width: auto;
+}
